@@ -99,8 +99,6 @@ To check the values of the parameters below, go to **Administration Panel** > **
 | Parameter | Description | 
 |:---------:|:-----------:|
 |POS ID|Unique ID of the POS|
-|Key|Unique MD5 key
-|POS Auth Key|Transaction authorization key|
 |Second Key| MD5 key for securing communication|
 
 #### Settings of external resources
