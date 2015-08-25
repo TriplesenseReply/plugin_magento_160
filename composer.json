@@ -1,0 +1,6 @@
+{
+  "name":        "payu/payu_account",
+  "description": "provide 'PAYU' as a Magento payment method",
+  "type":        "magento-module",
+  "require": {}
+}
