@@ -1,3 +1,9 @@
+## 2.1.10
+ * Replace http to https for static resources
+
+## 2.1.9
+ * Add lang to redirectUri
+
 ## 2.1.3
  * microtime() added to extOrderId to avoid ORDER_NOT_UNIQUE error
  * fixed status update bug
