@@ -1,6 +1,15 @@
 {
-  "name":        "payu/payu_account",
-  "description": "provide 'PAYU' as a Magento payment method",
-  "type":        "magento-module",
-  "require": {}
+  "name":         "payu/payu_account",
+  "description":  "The PayU payments Magento plugin adds the PayU payment option in your e-shop",
+  "homepage":     "http://www.payu.com/",
+  "license":      "GPL-3.0",
+  "type":         "magento-module",
+  "support": {
+    "email":  "tech@payu.pl",
+    "docs":   "https://github.com/PayU/plugin_magento/blob/master/README.md",
+    "source": "https://github.com/PayU/plugin_magento"
+  },
+  "require":{
+    "magento-hackathon/magento-composer-installer": "*"
+  }
 }
